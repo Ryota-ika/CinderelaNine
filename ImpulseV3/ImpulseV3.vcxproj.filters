@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="A_Abe.cpp" />
+    <ClCompile Include="A_Fukatsu.cpp" />
+    <ClCompile Include="A_Henmi.cpp" />
+    <ClCompile Include="A_Hiraoka.cpp" />
+    <ClCompile Include="A_Ito.cpp" />
+    <ClCompile Include="A_Kai_1.cpp" />
+    <ClCompile Include="A_Kai_2.cpp" />
+    <ClCompile Include="A_Nagashima.cpp" />
+    <ClCompile Include="B_Horiguchi.cpp" />
+    <ClCompile Include="B_Nakamura.cpp" />
+    <ClCompile Include="B_Sasamoto.cpp" />
+    <ClCompile Include="B_So.cpp" />
+    <ClCompile Include="B_Takahashi.cpp" />
+    <ClCompile Include="C_Cho.cpp" />
+    <ClCompile Include="D_Honnda.cpp" />
+    <ClCompile Include="D_Isozaki.cpp" />
+    <ClCompile Include="D_Saiga.cpp" />
+    <ClCompile Include="D_Tagami.cpp" />
+    <ClCompile Include="D_Takahashi.cpp" />
+    <ClCompile Include="GAME_01.cpp" />
+    <ClCompile Include="GAME_02.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="icon.rc" />
+  </ItemGroup>
+</Project>
