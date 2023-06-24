@@ -1,7 +1,7 @@
 # CinderelaNine
 
 開発環境
-・DirectX
+・DXLib
 ・C++
 
 説明
